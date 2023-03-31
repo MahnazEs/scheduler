@@ -1,3 +1,4 @@
+// Mock database
 const fixtures = {
   days: [
     {
